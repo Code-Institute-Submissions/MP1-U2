@@ -17,6 +17,30 @@
     width: 100%;
 }
 
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+p {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.members {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.members-description {
+    margin-bottom: 20px;
+}
+
+.member-image {
+    max-width: 100%;
+    height: auto;
+}
 
 /* ----------------------------------------Footer */
 .wrapper {
