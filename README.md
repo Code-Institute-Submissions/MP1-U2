@@ -47,4 +47,13 @@ The primary goal of The Unforgettable U2 Page is to provide a clear and informat
 
 * The Band Member photos were taken from the book "U2 By U2" pg. 151
 
+#### Code:
+* Code for navigation bar was taken from <a href="https://getbootstrap.com/docs/5.0/components/navbar/" taget="_blank">Bootstrap</a> and edited slightly to fit project needs.
+
+* Code for header was taken from <a href="https://getbootstrap.com/docs/5.0/layout/containers/" taget="_blank">Bootstrap</a> and edited slightly to fit project needs.
+
+* Code for sticky footer was taken from <a href="https://css-tricks.com/couple-takes-sticky-footer/" target="_blank">CSS-Tricks</a> and edited slightly to fit project needs.
+
+* Code for columns used for "Band Members" was taken from <a href="https://getbootstrap.com/docs/5.0/layout/columns/" target="_blank">Bootstrap</a> and edited slightly to fit project needs.
+
 #### Acknowledgements:
