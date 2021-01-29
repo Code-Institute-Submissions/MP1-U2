@@ -1,6 +1,6 @@
 # **The Unforgettable U2 Page**
 
-I have created a website surrounding the history and output of the band U2. Since I only had a limited amount of time work on this project, I kept the information and scope to minimum. It will provide an overall history page, a band members page, and a link to the bands discography. This is a site that will expand in scope over time. (Side note: I lost 11 days due to scheduling miscommunication. My projects going forward will not encounter the same issues as they have be addressed.)
+I have created a website surrounding the history and output of the band U2. Since I only had a limited amount of time work on this project, I kept the information and scope to minimum. It will provide an overall history page, a band members page, and a link to the bands discography. This is a site that will expand in scope over time. (Side note: I understand that this project is far from "Unforgettable"! I lost 11 days due to scheduling miscommunication. My projects going forward will not encounter the same issues as they have be addressed. Thank you for your time. Cheers!)
 
 ## **UX**
 
