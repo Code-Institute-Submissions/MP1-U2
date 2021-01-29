@@ -10,7 +10,7 @@ The primary goal of The Unforgettable U2 Page is to provide a clear and informat
 
 #### User goals are:
 
- * Attain a snapshot of the history and discography of the bands U2.
+ * Attain a snapshot of the history and discography of the band U2.
  * Easily navigable pages.
  * Easy to find and intuitive navigation bar.
 
