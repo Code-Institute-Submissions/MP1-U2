@@ -22,7 +22,7 @@ The primary goal of The Unforgettable U2 Page is to provide a clear and informat
 
  #### Wireframes
 
-
+https://drive.google.com/file/d/10fYCLCow-UN6RwyS3AI13sJi5qhvE12k/view?usp=sharing
 
 ## **Features**
 
@@ -34,6 +34,7 @@ The primary goal of The Unforgettable U2 Page is to provide a clear and informat
 ## **Testing**
 
 ## **Deployment**
+This project was deployed through GitHub Pages.
 
 ## **Credits**
 
@@ -43,6 +44,8 @@ The primary goal of The Unforgettable U2 Page is to provide a clear and informat
 * The link for the band "Discography" directs to <a href="https://en.wikipedia.org/wiki/U2_discography" target="_blank">Wikipedia U2 Discography</a>
 
 #### Media:
+* The video for "One" is taken from https://www.youtube.com/watch?v=ftjEcrrf7r0
+
 * The Hero Image was taken by the Developer.
 
 * The Band Member photos were taken from the book "U2 By U2" pg. 151
